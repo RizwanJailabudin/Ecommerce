@@ -7,10 +7,10 @@ module.exports = {
         dialect: "mysql"
     },
     production: {
-        HOST: "sql6.freemysqlhosting.net",
-        USER: "sql6503117",
-        PASSWORD: "nJtZypU7Jg",
-        DB: "sql6503117",
+        HOST: "sql8.freemysqlhosting.net",
+        USER: "sql8503165",
+        PASSWORD: "T1AKixAlik",
+        DB: "sql8503165",
         dialect: "mysql"
     }
 }
